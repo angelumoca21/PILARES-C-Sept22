@@ -1,0 +1,32 @@
+#include <stdio.h>
+
+int main() 
+{
+
+  printf("(O_/ __ \_O) \n");
+  printf("/ (o)__(o) \ \n");
+ printf("(__.--\/--.__)\n");
+printf("====(__/\__)====\n");
+     printf(" `--' \n");
+      printf("_||_ \n");
+    printf("/'....'\ \n");
+   printf("| :    : |\n");
+  printf(" ||:    :||\n");
+  printf(" ||:    :||\n");
+  printf(" ||:    :||\n");
+  printf(" ||:    :||\n");
+  printf(" ||:    :||\n");
+  printf(" ||:    :||\n");
+   printf("|| `..' ||\n");
+   printf("( | || | )\n");
+    printf("\| || |/\n");
+     printf("| || |\n");
+     printf("| || |\n");
+     printf("| || |\n");
+     printf("| || |\n");
+     printf("| || |\n");
+     printf("| || |\n");
+ printf("__,-' || '-,__");
+printf("(___,--'`--,___)");
+  return 0;
+}
