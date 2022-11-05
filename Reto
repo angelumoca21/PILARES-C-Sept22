@@ -1,0 +1,20 @@
+
+#include<stdio.h>
+
+int valor = 0;
+
+int main() {
+    printf("\nIngresa un numero entero y de indicare si es par o impar.\n");
+    printf("\nIngresa el numero entero: ");
+    scanf("%d",&valor);
+
+    if (valor % 2 ==0)
+    {
+        printf("\nEl numero %d, es par.", valor);
+    }
+    else
+    {
+        printf("\nEl numero  %d, es impar.", valor);
+    }
+    return 0;
+}
