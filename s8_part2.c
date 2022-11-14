@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 
 int contador = 1;
 
@@ -11,7 +11,7 @@ int main()
     }
     while (contador<=5);
     return 0;
-}*/
+}
 
 //Pedir un numero al usuario, este numero se va a repetir (ECO) mientras el numero ingresado no se a 3.
 
