@@ -2,8 +2,8 @@
 #include<string.h>
 
 char palabra[50],palabraAux[50];
-char silabaVocal[3]="way";
-char silabaConsonante[2]="ay";
+char silabaVocal[4]="way";
+char silabaConsonante[3]="ay";
 char inicial[1];
 int j=0;
 
